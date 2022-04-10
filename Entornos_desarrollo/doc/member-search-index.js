@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"practica1","c":"Notas","l":"aprobado()"},{"p":"practica1","c":"Notas","l":"calcularNota()"},{"p":"practica1","c":"Notas","l":"comprobacion()"},{"p":"practica1","c":"Notas","l":"ingresaNotas()"},{"p":"practica1","c":"Notas","l":"mostrar()"},{"p":"practica1","c":"Notas","l":"Notas()","u":"%3Cinit%3E()"}];updateSearchResults();
